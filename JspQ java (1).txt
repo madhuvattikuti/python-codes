@@ -1,0 +1,176 @@
+1.write a program to print name,collagename,branch,age,city,percentage.
+
+
+2.WAP to store and print student details.
+
+                                   CONDITIONAL OPERATOR:- 
+
+3.WAP to find largest of the given two numbers.
+
+
+4.WAP to check the given number is even or odd.
+
+
+5.WAP to check the weather the given number is multiple of 5 or not.
+
+
+6.WAP to check the weather the given age is eligible for voting or not.
+
+
+CONTROL sTATEMENTS:
+7.WAP to check wheather user is eligible for voting.
+
+
+8.WAP to check weather the given number is  even or odd.
+
+
+9.WAP to check weather a couples eligible for marriage or not based on age.
+
+
+10.WAP to check weather a condidate is eligible for writing IAS exam or not.
+
+
+11.WAP to pritn status of the given grade.
+
+12.WAP to print bus ticket price based on age.
+   Age                          price
+10 Or below 10                  Free 
+  11 to 18                      50 rs 
+  19 to 59                      100 rs 
+  60 or above                   40 rs
+
+
+13.WAP to print the status of the marks.
+marks               ranks
+90 - 100            1st rank
+80 - 89             2nd rank
+70 - 79             1st class 
+60 - 69             2nd class
+35 - 59             just pass
+0  - 34             Fail
+
+
+14.WAP to print tolgate fee for a vehicle based on the number of wheel.
+SWITCH
+
+vehichle wheels                tolgate fee
+16 - 19                         500
+10 -  15                         300
+6  -  9                         200
+4  -  5                         100
+  3                             50
+  2                             free
+
+
+15.WAP to print entry fee for a park.(using Switch)
+  male(M)-100
+  female(F)-80
+  Transgender(T)-50
+  children(C)-free
+  seniorcitizen(S)-free
+
+16.WAP to print A/a-1st rank
+                B/b-2nd rank
+                C/c-1st class
+                D/d-2nd class
+                E/e-just pass
+                F/f-fail
+ BY using SWITCH
+
+17.WAP to print season based on month number
+3,4,5,6-summer,
+6,7,8-rainy,
+9,10,11-spring,
+12,1,2-winter.
+BY using SWITCH
+
+FOR loop
+18.Write a program to print username user define type.
+19.WAP to print number 1 to 50.
+20.WAP to print number 23 to 66.
+21.WAP to print number 19 to 3.
+22.WAP to print character A to N.
+23.WAP to print character small y to d.
+24.WAP to print number from 1 to 10 except 7.
+25.WAP to print number from 1 to 10 except 3 and 5.
+26.WAP to print even number in the given range 7 to 25.
+27.WAP to print odd number in the given range 25 to 90.
+
+28.WAP to print multiple of 8 in the given range.
+29.WAP to print numbers in the given range and the below manner.
+ min=4
+ max=12
+30.WAP to find sum of the natural numbers from 7 to 23.
+31.WAP to find sum of natural numbers in the given range.
+32.WAP to find product of natural numbers from 2 to 9.
+33.WAP to find product of natural numbers in the given range.
+34.WAP to find factorial value of given number.
+35.WAP to find product of the even natural numbers in the given number.
+36.WAP to print factors for the given number.
+37.WAP to count factors of the given number.
+38.wap to count multiple of 4 in the given range.
+39.WAP to count multiple of factorial.
+
+40.WAP to check given number is prime or not.
+
+41.WAP to count prime no in the given range.
+42.WAP to print composite number.
+43.WAP to print composite no in the given range.
+44.WAP to print 1 to 50 in the below manner.
+  1:odd no
+  2:even no
+  .
+  .
+  50:even no
+45.WAP to print prime and composite number in given range.
+ 1:neither prime nor composite
+ 2:prime
+ 3:prime
+ 4:composite
+  .
+  .
+ upto given range.
+
+46.WAP to count prime and composite number in the given range.
+47.WAP to check given number is perfect no or not.
+48.WAP to print perfect number from 1 to 10000.
+
+49.WAP to print multiplication table from 1 to 10.
+
+50.WAP to print multiplication table given number in the given range.
+51:WAP to print the power question(3^2).
+
+52.WAP to print the reverse the given number.
+53.WAP to store and print reverse the given number.
+54.WAP to check weather the given no is palindrom or not.
+
+55.WAP to find sum of the digits in the given number.
+56.WAP to find the product of the digits of the given no.
+57.WAP to print sum of odd digits in the given no.
+58.WAP to count even digits in the given number.
+59.WAP to find largest digit in the given number.
+60.WAP to check the largest digit in the given number is even or odd.
+61.WAP to find factorial of the largest digit in the given number.
+62.WAP to check largest digit in the given number is prime or not.
+63.WAP to find sum of the prime digit in the given number.
+64.WAP to find the sum of the factorial value of the prime digit in the given number.
+65.WAAP to find sum of the factorial values of the digits in the given number.
+
+66.WAP to find check weather the given number is strong number or not.
+67.WAP to check given number is spy number or not.
+68.WAP to check given number is amstrong or not.
+69.WAP to check given number is magic number.
+70.WAP to print HIGHEST COMMON FACTORS of the given number.
+71.WAP to print LEAST COMMON MULTIPLE of the given number.
+72.WAP to print sum of n number.
+73.WAP to print product of n number.
+74.WAP to print Sum of Number USing While loop.
+
+75.WAP to print 100 prime numbers
+76.WAP to print primes( using whileloop) 2 to n terms.
+77.WAP to print find 5 perfect number.
+78.WAP to print 1st 5 spy number.
+79.WAP to check weather given no is co prime or not.
+80.WAP to swapping given two number's with 3rd number.
+81.WAP program to swap given numbers without 3rd number.
+82.WAP to print 10 numbers in febonacci series.
